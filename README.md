@@ -1,8 +1,8 @@
 # ReactJs-Introducao
 
-Apredendo a desenvolver o Aplicações com React Js
+Apredendo a desenvolver Aplicações com React Js
 
-#### Conhecendo o Estrutura de pasta e arquivos em uma aplicação React Js:
+#### Conhecendo Estrutura de pasta e arquivos em uma aplicação React Js:
 [![Demonstração](./img/estruturaPastas.PNG)]()
 
 - 📁 node_modules: Pasta que contém todos os arquivos de dependencia da aplicação.
